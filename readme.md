@@ -76,4 +76,5 @@ The starter files + solutions will be updated if/when the videos are updated.
 
 Thanks!
 #   j s 3 0 - 1 - D r u m - K i t  
+ #   j s 3 0 - 1 - D r u m - K i t  
  
